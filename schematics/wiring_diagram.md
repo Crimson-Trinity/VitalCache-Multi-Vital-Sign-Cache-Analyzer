@@ -1,6 +1,6 @@
 # VitalCache — Wiring Diagram
 
-## Component Connections
+## Component Connections ( VitalCache )
 
 ### PPG Sensor (Analog Pulse Sensor)
 
